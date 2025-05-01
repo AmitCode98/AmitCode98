@@ -20,44 +20,92 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education**: Bachelor of Technology in Computer Science
-- 💼 **Current Role**: Frontend Developer at [Your Company Name]
-- 🌐 **Portfolio**: [https://amitcode98.github.io/amitportfolio.github.io/](https://amitcode98.github.io/amitportfolio.github.io/)
-- 🛠️ **Tech Stack**: HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
-- 🎯 **Interests**: UI/UX Design, Responsive Web Development, Open Source Contribution
+Driven by a passion for creating visually appealing and highly functional web experiences, I specialize in frontend technologies with a keen interest in UI/UX design. I hold a Master's degree in Computer Applications (MCA) and am committed to enhancing my skills by staying up to date with the latest trends in web development.
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Technologies & Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+**Frontend:**
+* HTML5
+* CSS3 (Sass/Less)
+* JavaScript (ES6+)
+* React
+* Vite
+* Redux (or other state management)
+* Responsive Design
+* Web Accessibility (WCAG, ARIA)
+* Figma
+* Next.js
+* Tailwind CSS
+
+**Other:**
+* Git & Version Control
+* Web3.js
+* TypeScript
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Projects
+
+Here are some of the projects I've worked on:
+
+#### **Grades NFT**
+* **Description:** An innovative educational platform that gamifies learning by rewarding students with NFTs as they achieve academic milestones. It integrates blockchain technology to foster motivation and engagement among learners.
+* **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Web3.js
+* **Live Demo:** [grades-three.vercel.app](https://grades-three.vercel.app)
+* **Source Code:** [github.com/AmitCode98/grades](https://github.com/AmitCode98/grades)
+
+#### **Live2Drive**
+* **Description:** A responsive car rental landing page featuring a clean layout, service highlights, and clear calls to action.
+* **Tech Stack:** React, Vite, Tailwind CSS, JavaScript
+* **Live Demo:** [live2drive.vercel.app](https://live2drive.vercel.app)
+* **Source Code:** [github.com/AmitCode98/live2drive](https://github.com/AmitCode98/live2drive)
+
+#### **Camel Run**
+* **Description:** A responsive and visually engaging landing page designed to showcase the Camel Run game. The website features smooth animations, intuitive navigation, and a modern layout to enhance user experience across devices.
+* **Tech Stack:** React, Tailwind CSS, JavaScript
+* **Live Demo:** [camel-run-frontend.vercel.app](https://camel-run-frontend.vercel.app)
+* **Source Code:** [github.com/AmitCode98/Camel-Run-Frontend](https://github.com/AmitCode98/Camel-Run-Frontend)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitcode98&show_icons=true&theme=radical" alt="Amit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitcode98&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitcode98&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitcode98&show_icons=true&theme=dracula" alt="Amit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitcode98&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 💬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/amit-gorai-37869b200/)
-- 📧 [Email](mailto:amit.gorai16@gmail.com)
-- 🌐 [Portfolio](https://amitcode98.github.io/amitportfolio.github.io/)
+I'm always open to discussing new projects, ideas, or opportunities. Feel free to connect with me through the following:
+
+* [LinkedIn](https://www.linkedin.com/in/amit-gorai-37869b200/)
+* [Gmail](mailto:amit.gorai16@gmail.com)
+
+---
+
+### 🌱 Future Goals
+
+My long-term career goal is to become a full-stack developer and further polish my English communication skills to collaborate effectively on global platforms. I'm actively seeking opportunities to work on innovative projects where I can contribute, learn, and grow as a developer and designer.
+
+---
+
+### ✨ Interests
+
+Apart from web development, I’m also interested in:
+
+* Android Development
+* iOS Development
+* Windows Platforms
+* Software Updates
+* Graphics Design
+* UI/UX Prototyping
 
 ---
 
 *Feel free to reach out for collaboration or just a friendly chat!*
+
