@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://user-images.githubusercontent.com/yourusername/banner-image.png)
+![Banner](banner7.0.png)
 
 <h1 align="center">Hi 👋, I'm Amit Gorai</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | UI/UX Designer</h3>
