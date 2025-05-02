@@ -2,7 +2,7 @@
 ![Banner](banner7.0.png)
 
 <h1 align="center">Hi 👋, I'm Amit Gorai</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | UI/UX Designer</h3>
+<h3 align="center">Frontend Developer | React Enthusiast </h3>
 
 <p align="center">
   <a href="https://github.com/AmitCode98">
@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-Hi, I’m Amit Gorai, a passionate Frontend Developer and UI/UX Designer from Kolkata, India. With a Master’s degree in Computer Applications (MCA), I specialize in creating clean, responsive, and visually appealing web experiences. I love turning creative ideas into interactive, user-friendly websites that leave a lasting impression. I’m always learning and adapting to the latest technologies in frontend development to enhance my skills.
+Hi, I’m Amit Gorai, a passionate Frontend Developer from Kolkata, India. With a Master’s degree in Computer Applications (MCA), I specialize in creating clean, responsive, and visually appealing web experiences. I love turning creative ideas into interactive, user-friendly websites that leave a lasting impression. I’m always learning and adapting to the latest technologies in frontend development to enhance my skills.
 ---
 
 ### 🛠️ Technologies & Skills
