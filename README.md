@@ -8,20 +8,23 @@
   <a href="https://github.com/AmitCode98">
     <img src="https://komarev.com/ghpvc/?username=amitcode98&label=Profile%20views&color=0e75b6&style=flat" alt="amitcode98" />
   </a>
-  <a href="https://linkedin.com/in/amit-gorai-37869b200/">
+  <a href="https://amitgorai.dev">
+    <img src="https://img.shields.io/badge/Portfolio-amitgorai.dev-black?style=flat&logo=internet-explorer" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/amitgorai-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-amitgorai-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:amit.gorai16@gmail.com">
     <img src="https://img.shields.io/badge/Email-amit.gorai16@gmail.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
+  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Driven by a passion for creating visually appealing and highly functional web experiences, I specialize in frontend technologies with a keen interest in UI/UX design. I hold a Master's degree in Computer Applications (MCA) and am committed to enhancing my skills by staying up to date with the latest trends in web development.
-
+Hi, I’m Amit Gorai, a passionate Frontend Developer and UI/UX Designer from Kolkata, India. With a Master’s degree in Computer Applications (MCA), I specialize in creating clean, responsive, and visually appealing web experiences. I love turning creative ideas into interactive, user-friendly websites that leave a lasting impression. I’m always learning and adapting to the latest technologies in frontend development to enhance my skills.
 ---
 
 ### 🛠️ Technologies & Skills
@@ -81,10 +84,11 @@ Here are some of the projects I've worked on:
 
 ### 💬 Let's Connect
 
-I'm always open to discussing new projects, ideas, or opportunities. Feel free to connect with me through the following:
+I’d love to hear about your next exciting project or any opportunities to collaborate. Feel free to connect with me!
 
-* [LinkedIn](https://www.linkedin.com/in/amit-gorai-37869b200/)
+* [LinkedIn](https://www.linkedin.com/in/amitgorai-dev)
 * [Gmail](mailto:amit.gorai16@gmail.com)
+* [Portfolio](https://amitgorai.dev/)
 
 ---
 
